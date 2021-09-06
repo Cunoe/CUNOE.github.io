@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CUNOE&amp;DIARY</title>
+  
+  <subtitle>为了记录</subtitle>
+  <link href="https://www.cunoe.com/atom.xml" rel="self"/>
+  
+  <link href="https://www.cunoe.com/"/>
+  <updated>2021-09-06T14:40:31.349Z</updated>
+  <id>https://www.cunoe.com/</id>
+  
+  <author>
+    <name>CUNOE</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Django及uWSGI的部署方案</title>
+    <link href="https://www.cunoe.com/2019/01/31/django/"/>
+    <id>https://www.cunoe.com/2019/01/31/django/</id>
+    <published>2019-01-31T15:45:44.000Z</published>
+    <updated>2021-09-06T14:40:31.349Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;开始&quot;&gt;&lt;a href=&quot;#开始&quot; class=&quot;headerlink&quot; title=&quot;开始&quot;&gt;&lt;/a&gt;开始&lt;/h2&gt;&lt;p&gt;这篇文章为我在2019年1月31日部署Django的笔记，具体环境如下：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;System：Ubuntu 16.04.5 LTS
+Web Server:Nginx/1.10.3 uWSGI/2.0.17.1
+Other:Django/2.1.5 Python/3.7[Anaconda]
+注：Django是一个高层次的Python Web框架
+Nginx是一个免费开源且高性能的HTTP服务器和反向代理
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;目前使用Nginx和uWSGI部署Django项目还是比较主流的方案之一，也是一种可靠而简单的方案&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="笔记" scheme="https://www.cunoe.com/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Django" scheme="https://www.cunoe.com/tags/Django/"/>
+    
+    <category term="Python" scheme="https://www.cunoe.com/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2018年度总结</title>
+    <link href="https://www.cunoe.com/2018/12/31/2018/"/>
+    <id>https://www.cunoe.com/2018/12/31/2018/</id>
+    <published>2018-12-31T01:00:00.000Z</published>
+    <updated>2021-09-06T14:20:02.629Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;时间流逝不等人&lt;br&gt;转眼之间就来到了2018的最后一天&lt;br&gt;是时候总结一下了&lt;/p&gt;
+&lt;h2 id=&quot;瞎逼逼&quot;&gt;&lt;a href=&quot;#瞎逼逼&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="笔记" scheme="https://www.cunoe.com/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="总结" scheme="https://www.cunoe.com/tags/%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>你好！世界！</title>
+    <link href="https://www.cunoe.com/2018/09/09/hello-world/"/>
+    <id>https://www.cunoe.com/2018/09/09/hello-world/</id>
+    <published>2018-09-09T11:00:00.000Z</published>
+    <updated>2021-09-06T13:49:33.334Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;你好(*´▽｀)ノノ&lt;/p&gt;
+&lt;p&gt;我是CUNOE，这是我的BLOG，用于记录我的一生，爱自己，爱生活，送给我自己！&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>阿里云SSL免费申请及使用</title>
+    <link href="https://www.cunoe.com/2018/08/26/ssl/"/>
+    <id>https://www.cunoe.com/2018/08/26/ssl/</id>
+    <published>2018-08-25T20:40:00.000Z</published>
+    <updated>2021-09-06T14:31:15.026Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;SSL证书&quot;&gt;&lt;a href=&quot;#SSL证书&quot; class=&quot;headerlink&quot; title=&quot;SSL证书&quot;&gt;&lt;/a&gt;SSL证书&lt;/h2&gt;&lt;p&gt;在国内提供免费SSL证书服务的云厂商其实不少&lt;br&gt;比如阿里云 腾讯等&lt;br&gt;最近因为觉得Let’s</summary>
+        
+      
+    
+    
+    
+    <category term="笔记" scheme="https://www.cunoe.com/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="SSL" scheme="https://www.cunoe.com/tags/SSL/"/>
+    
+    <category term="VPS" scheme="https://www.cunoe.com/tags/VPS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>从Wordpress到Tyepcho</title>
+    <link href="https://www.cunoe.com/2018/08/25/typecho/"/>
+    <id>https://www.cunoe.com/2018/08/25/typecho/</id>
+    <published>2018-08-25T07:41:08.000Z</published>
+    <updated>2021-09-06T14:40:31.349Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Wow~&lt;br&gt;由于Wordpress过于臃肿 很早就想换到另一个更好的博客&lt;br&gt;只是一直没下定决心 今天终于是从Wordpress搬到Typecho这个由国人开发的博客&lt;br&gt;网站的响应速度也是很快&lt;br&gt;嘛 总是一切都还不错&lt;br&gt;就这样啦~</summary>
+        
+      
+    
+    
+    
+    <category term="笔记" scheme="https://www.cunoe.com/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="日常" scheme="https://www.cunoe.com/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+    <category term="Typecho" scheme="https://www.cunoe.com/tags/Typecho/"/>
+    
+  </entry>
+  
+</feed>
