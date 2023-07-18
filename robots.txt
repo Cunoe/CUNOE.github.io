@@ -3,8 +3,9 @@ Allow: /
 Allow: /archives/
 Allow: /about/
 Allow: /links/
+Allow: /posts/
 
 Disallow: /tags/
 Disallow: /search/
 
-Sitemap: https://blog.ghkk.net/sitemap.xml
+Sitemap: https://www.cunoe.com/sitemap.xml
