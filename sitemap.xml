@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://www.cunoe.com/posts/aria2-with-ariang/</loc>
+    <loc>https://www.cunoe.com/posts/auto-deploy-golang/</loc>
     
     <lastmod>2023-07-18</lastmod>
     
@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://www.cunoe.com/posts/auto-deploy-golang/</loc>
+    <loc>https://www.cunoe.com/posts/aria2-with-ariang/</loc>
     
     <lastmod>2023-07-18</lastmod>
     
@@ -266,34 +266,6 @@
   </url>
   
   <url>
-    <loc>https://www.cunoe.com/tags/VPS/</loc>
-    <lastmod>2023-07-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.cunoe.com/tags/SSL/</loc>
-    <lastmod>2023-07-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.cunoe.com/tags/Nginx/</loc>
-    <lastmod>2023-07-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.cunoe.com/tags/aria2/</loc>
-    <lastmod>2023-07-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.cunoe.com/tags/Github-Actions/</loc>
     <lastmod>2023-07-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -316,6 +288,34 @@
   
   <url>
     <loc>https://www.cunoe.com/tags/%E8%AE%B0%E5%BD%95/</loc>
+    <lastmod>2023-07-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.cunoe.com/tags/VPS/</loc>
+    <lastmod>2023-07-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.cunoe.com/tags/SSL/</loc>
+    <lastmod>2023-07-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.cunoe.com/tags/Nginx/</loc>
+    <lastmod>2023-07-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.cunoe.com/tags/aria2/</loc>
     <lastmod>2023-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
