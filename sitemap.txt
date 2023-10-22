@@ -1,3 +1,4 @@
+https://www.cunoe.com/posts/choose-carefully/
 https://www.cunoe.com/posts/clean-git-big-files/
 https://www.cunoe.com/posts/design-of-decelerator/
 https://www.cunoe.com/posts/django/
@@ -22,14 +23,18 @@ https://www.cunoe.com/gallery/background/index.html
 https://www.cunoe.com/posts/2018/
 https://www.cunoe.com/posts/2021-Mid-Autumn/
 https://www.cunoe.com/posts/2021/
+https://www.cunoe.com/posts/2023-10-20-wuhan/
 https://www.cunoe.com/posts/NineSet-1/
 https://www.cunoe.com/posts/aria2-with-ariang/
 https://www.cunoe.com/posts/auto-deploy-golang/
-https://www.cunoe.com/posts/choose-carefully/
 https://www.cunoe.com/404.html
 https://www.cunoe.com/
 https://www.cunoe.com/tags/%E6%80%BB%E7%BB%93/
 https://www.cunoe.com/tags/%E6%97%A5%E5%B8%B8/
+https://www.cunoe.com/tags/%E6%AD%A6%E6%B1%89/
+https://www.cunoe.com/tags/2023/
+https://www.cunoe.com/tags/%E6%97%85%E8%A1%8C/
+https://www.cunoe.com/tags/%E6%97%85%E6%8B%8D/
 https://www.cunoe.com/tags/Python/
 https://www.cunoe.com/tags/VPS/
 https://www.cunoe.com/tags/SSL/
@@ -50,7 +55,6 @@ https://www.cunoe.com/tags/Django/
 https://www.cunoe.com/tags/Linux/
 https://www.cunoe.com/tags/%E8%84%9A%E6%9C%AC/
 https://www.cunoe.com/tags/%E5%9B%BD%E5%BA%86/
-https://www.cunoe.com/tags/2023/
 https://www.cunoe.com/tags/%E7%85%A7%E7%89%87/
 https://www.cunoe.com/tags/%E9%97%B2%E9%80%9B/
 https://www.cunoe.com/tags/Diary/
@@ -63,6 +67,6 @@ https://www.cunoe.com/tags/Mod/
 https://www.cunoe.com/tags/TestLink/
 https://www.cunoe.com/tags/YouTrack/
 https://www.cunoe.com/categories/%E7%AC%94%E8%AE%B0/
+https://www.cunoe.com/categories/%E6%97%A5%E5%B8%B8/
 https://www.cunoe.com/categories/%E6%8A%80%E6%9C%AF/
 https://www.cunoe.com/categories/%E9%9A%8F%E6%89%8B%E8%AE%B0/
-https://www.cunoe.com/categories/%E6%97%A5%E5%B8%B8/

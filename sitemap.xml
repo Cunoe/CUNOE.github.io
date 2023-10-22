@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.cunoe.com/posts/choose-carefully/</loc>
+    
+    <lastmod>2023-10-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.cunoe.com/posts/clean-git-big-files/</loc>
     
     <lastmod>2023-10-22</lastmod>
@@ -218,6 +227,15 @@
   </url>
   
   <url>
+    <loc>https://www.cunoe.com/posts/2023-10-20-wuhan/</loc>
+    
+    <lastmod>2023-10-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.cunoe.com/posts/NineSet-1/</loc>
     
     <lastmod>2023-10-22</lastmod>
@@ -237,15 +255,6 @@
   
   <url>
     <loc>https://www.cunoe.com/posts/auto-deploy-golang/</loc>
-    
-    <lastmod>2023-10-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.cunoe.com/posts/choose-carefully/</loc>
     
     <lastmod>2023-10-22</lastmod>
     
@@ -280,6 +289,34 @@
   
   <url>
     <loc>https://www.cunoe.com/tags/%E6%97%A5%E5%B8%B8/</loc>
+    <lastmod>2023-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.cunoe.com/tags/%E6%AD%A6%E6%B1%89/</loc>
+    <lastmod>2023-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.cunoe.com/tags/2023/</loc>
+    <lastmod>2023-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.cunoe.com/tags/%E6%97%85%E8%A1%8C/</loc>
+    <lastmod>2023-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.cunoe.com/tags/%E6%97%85%E6%8B%8D/</loc>
     <lastmod>2023-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -426,13 +463,6 @@
   </url>
   
   <url>
-    <loc>https://www.cunoe.com/tags/2023/</loc>
-    <lastmod>2023-10-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.cunoe.com/tags/%E7%85%A7%E7%89%87/</loc>
     <lastmod>2023-10-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -519,6 +549,13 @@
   </url>
   
   <url>
+    <loc>https://www.cunoe.com/categories/%E6%97%A5%E5%B8%B8/</loc>
+    <lastmod>2023-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.cunoe.com/categories/%E6%8A%80%E6%9C%AF/</loc>
     <lastmod>2023-10-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -527,13 +564,6 @@
   
   <url>
     <loc>https://www.cunoe.com/categories/%E9%9A%8F%E6%89%8B%E8%AE%B0/</loc>
-    <lastmod>2023-10-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.cunoe.com/categories/%E6%97%A5%E5%B8%B8/</loc>
     <lastmod>2023-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
